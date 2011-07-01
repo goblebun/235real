@@ -1,0 +1,44 @@
+
+
+body {
+	background: url(../../../templates/images/header_fons_int.gif) repeat-x;
+}
+
+#header {
+	height: 222px;
+	background: url(../../../templates/images/logo_header_interior.gif) no-repeat center top;
+	border:0px;
+}
+
+#headerTitle {
+	height: 103px;
+    margin-top: 88px;
+    padding: 0;
+	background: none;
+	color: #5E5E5E;
+    line-height: 60px;
+}
+
+#header h1 {
+	margin: 0;
+    padding: 0;
+	text-indent: 0!important;
+}
+
+#content div {
+	width: 100%;
+	float: none;
+	padding: 0;
+}
+
+#content div {
+	float: none!important;
+	padding: 0!important;
+	width: auto!important;
+}
+
+#homepageImage img {
+	margin: 0;
+	border: 0;
+	text-align: left;
+}
